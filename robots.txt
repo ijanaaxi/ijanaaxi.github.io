@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ijanaaxi.github.io/AQH/sitemap_index.txt
+Sitemap: https://ijanaaxi.github.io/LMw/sitemap_index.txt
+Sitemap: https://ijanaaxi.github.io/muY/sitemap_index.txt
+Sitemap: https://ijanaaxi.github.io/qiY/sitemap_index.txt
